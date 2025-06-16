@@ -1,6 +1,6 @@
 ---
 
-# Employee attrition prdiction
+# Employee attrition prediction
 
 🚀 [Click here to try the live Streamlit app](https://employee-attrition-forecast.streamlit.app/)  
 
